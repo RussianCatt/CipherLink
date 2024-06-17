@@ -8,11 +8,36 @@
     <Authors>RussianCat</Authors>
     <Company>RussianCat</Company>
     <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
+    <ApplicationIcon>cip1_1-modified.ico</ApplicationIcon>
+    <Title>CipherLink</Title>
+    <Copyright>©RussianCat</Copyright>
+    <PackageProjectUrl>https://github.com/RussianCatt/CipherLink</PackageProjectUrl>
+    <PackageIcon>cip1_1-modified.png</PackageIcon>
+    <RepositoryUrl>https://github.com/RussianCatt/CipherLink</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <Version>0.0.1-beta</Version>
+    <FileVersion>0.0.1-beta</FileVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="cip1_1-modified.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Config\" />
     <Folder Include="Utilities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\cip1_1-modified.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
