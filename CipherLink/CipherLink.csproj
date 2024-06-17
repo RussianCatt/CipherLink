@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
     <Authors>RussianCat</Authors>
     <Company>RussianCat</Company>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
   </PropertyGroup>
 
   <ItemGroup>
