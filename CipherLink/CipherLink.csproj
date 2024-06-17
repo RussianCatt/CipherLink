@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <Folder Include="Config\" />
+    <Folder Include="Images\" />
     <Folder Include="Utilities\" />
   </ItemGroup>
 
