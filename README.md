@@ -12,7 +12,7 @@
 <p align="center"><img src="https://views.whatilearened.today/views/github/RussianCatt/CipherLink.svg" width="80px" height="28px" alt="View"></p>
 
 
-<p align="center"><img src="images/screenshot.png" width="570" alt="CipherLink Screenshot"></p>
+<p align="center"><img src="CipherLink/Images/Screenshot.png" width="570" alt="CipherLink Screenshot"></p>
 
 ## 📄 Description
 
