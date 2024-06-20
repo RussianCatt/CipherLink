@@ -13,7 +13,7 @@ namespace CipherLink
 
             while (true)
             {
-                Console.Title = "CipherLink 0.0.1-beta";
+                Console.Title = "CipherLink 0.0.12-beta";
                 Console.Write("CipherLink> ");
                 string input = Console.ReadLine();
                 if (string.IsNullOrWhiteSpace(input)) continue;

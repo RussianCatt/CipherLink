@@ -16,8 +16,8 @@
     <RepositoryUrl>https://github.com/RussianCatt/CipherLink</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>git</RepositoryType>
-    <Version>0.0.1-beta</Version>
-    <FileVersion>0.0.1-beta</FileVersion>
+    <Version>0.0.12-beta</Version>
+    <FileVersion>0.0.12-beta</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
