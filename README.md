@@ -1,4 +1,4 @@
-<p align="center"><img src="images/logo.png" alt="CipherLink"></p>
+<p align="center"><img src="CipherLink/Images/cipherlink.png" alt="CipherLink"></p>
 <div align="center" style="margin-top: 0;">
    <h1>CipherLink</h1>
    <p>All-In-One tools for torrents, piracy, automated account creation, and more. ⚡</p>
@@ -12,7 +12,7 @@
 <p align="center"><img src="https://views.whatilearened.today/views/github/RussianCatt/CipherLink.svg" width="80px" height="28px" alt="View"></p>
 
 
-<p align="center"><img src="images/screenshot.png" width="570" alt="CipherLink Screenshot"></p>
+<p align="center"><img src="CipherLink/Images/Screenshot.png" width="570" alt="CipherLink Screenshot"></p>
 
 ## 📄 Description
 
