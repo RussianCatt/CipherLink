@@ -52,5 +52,5 @@ Special thanks to all contributors and open-source libraries that made this proj
 ---
 
 <p align="center">
-Made with ❤️ by  <a href="https://github.com/RussianCatt/">RussianCat</a>
+Made with ❤️ by  <a href="https://github.com/RussianCatt/">RussianCat</a> with the help of <a href="https://github.com/stxfi/">stxfi</a>
 </p>
