@@ -27,7 +27,6 @@
   <ItemGroup>
     <Folder Include="Config\" />
     <Folder Include="Images\" />
-    <Folder Include="Utilities\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -44,6 +43,7 @@
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.4.0" />
     <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="YoutubeExplode" Version="6.3.16" />
     <PackageReference Include="YoutubeExplode.Converter" Version="6.3.16" />
   </ItemGroup>

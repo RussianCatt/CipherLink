@@ -10,5 +10,6 @@ namespace CipherLink.Plugins
     {
         string Name { get; }
         void Execute(string[] args);
+        string Description { get; } // New: Description property to describe the plugin's functionality
     }
 }

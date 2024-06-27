@@ -18,7 +18,7 @@ namespace CipherLink.Plugins
         private string downloadPath;
 
         public string Name => "youtubedl";
-
+        public string Description => "**************************************************************\n*                   YOUTUBEDL Command                        *\n**************************************************************\n  The `youtubedl` command downloads YouTube videos as either \n  MP4 or MP3 files to a specified directory. It utilizes \n  YouTubeExplode library for video streaming and NAudio for \n  MP3 conversion.\n\n  Usage:\n  youtubedl <url> [--audio] [--setpath]\n\n  Parameters:\n  - `<url>`: URL of the YouTube video to download.\n  - `--audio`: Optional flag to download the video as an MP3 \n               audio file.\n  - `--setpath`: Optional flag to set the download path.\n\n  Examples:\n  1. Download a YouTube video as MP4:\n     ```\n     youtubedl https://www.youtube.com/watch?v=video_id\n     ```\n\n  2. Download a YouTube video as MP3:\n     ```\n     youtubedl https://www.youtube.com/watch?v=video_id --audio\n     ```\n\n  3. Set a custom download path:\n     ```\n     youtubedl --setpath\n     ```\n\n  Notes:\n  - Ensure the `youtubedl.conf` configuration file exists in \n    the `Config` directory with the correct settings.\n  - MP3 conversions require MediaFoundationEncoder from \n    NAudio, which must be properly configured.\n  - The command supports both video and audio downloading \n    based on the specified flags.\n";
         public YouTubeDownloaderPlugin()
         {
             if (!Directory.Exists(ConfigFolder))
